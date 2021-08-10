@@ -9,8 +9,14 @@ This is a demo of a chat room that I created using web tools like html & javascr
 
 1)Install the files
 
-2)Open the folder server and run **server.exe** .
+2)Open terminal and type ```cd {directory_of_the_foler}```.
 
-4)Open terminal and type ```cd {directory_of_the_foler}```.
+3) ```
 
-5) To run the chat-room just type ```npm start```.
+cd ./server
+start server.exe
+
+cd ../
+cd ./src
+npm start
+```
