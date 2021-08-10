@@ -12,6 +12,7 @@ This is a demo of a chat room that I created using web tools like html & javascr
 2)Open terminal and type ```cd {directory_of_the_foler}```.
 
 3)
+
 ```
 cd ./server
 start server.exe
