@@ -1,0 +1,21 @@
+{
+  "name": "sysinfoapp",
+  "version": "1.0.0",
+  "description": "Simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "AKalattas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "main.js"
+  },
+  "dependencies": {
+    "electron": "^13.1.7",
+    "electron-packager": "^15.2.0",
+    "update-electron-app": "^2.0.1",
+    "ws": "^7.5.0"
+  }
+}
