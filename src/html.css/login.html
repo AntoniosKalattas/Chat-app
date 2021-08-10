@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta chaset="utf-8">
+      <link rel="stylesheet" href ="css/login_css.css">
+      <link rel="stylesheet" href ="css/style.css">
+      <title></title>
+      <script defer src="../../renderer.js"></script>
+  </head>
+    <body>
+      <div class="title_bar1">
+        <div style="text-align:center">dev:chat</div>
+        <div class="exit" onclick="quit()">x</div>
+        <div class="minimize" onclick="minimize()"></div>
+      </div>
+      <div class="center">
+      <h1>Hello,<br>
+      Welcome back.</h1>
+      <form id="login-form" metod="post" action="index.html">
+          <div class="txt_field">
+              <input id="username" type="text" required>
+
+              <label>username</label>
+          </div>
+          <!--<div class="pass">Forgot Password?</div>-->
+          <input onclick="get_username()" type="submit" id="submit" value="Login">
+          <!--<div class="signup_link">
+            Not a member?<a href="#">Sing up </a>
+          </div>-->
+      </form>
+    </div>
+    </body>
+    <script>
+    function get_username(){
+      localStorage.clear();
+      let username = document.getElementById("username").value;
+      localStorage.setItem("username", username);
+      document.getElementById("show_username").innerHTML=localStorage.getItem("username");
+    }
+    </script>
+</html>
