@@ -9,7 +9,7 @@ This is a demo of a chat room that I created using web tools like html & javascr
 
 1)Install the files
 
-2)Open the folder server and run <u>server.exe</u>.
+2)Open the folder server and run **server.exe** .
 
 4)Open terminal and type ```cd {directory_of_the_foler}```.
 
