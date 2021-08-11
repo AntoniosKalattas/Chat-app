@@ -20,3 +20,4 @@ cd ../
 cd ./src
 npm start
 ```
+**In order to build the app you need to have installed electron**
