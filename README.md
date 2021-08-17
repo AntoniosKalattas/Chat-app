@@ -21,3 +21,5 @@ cd ./src
 npm start
 ```
 **In order to build the app you need to have installed electron(https://www.electronjs.org) & ws(https://www.npmjs.com/package/ws)**
+
+# To try the demo of the chat-app you can visit my google drive and install it from there: https://drive.google.com/drive/folders/17kjXu77uhEvGW2RdWYKLTZS5ReVF5mHb?usp=sharing
