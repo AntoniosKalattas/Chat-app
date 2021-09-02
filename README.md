@@ -4,6 +4,9 @@ This is a demo chat-room
 
 This is a demo of a chat room that I created using web tools like html & javascript and also electron. 
 
+![alt text](https://github.com/AntoniosKalattas/Chat-app/blob/main/img/Screenshot%20(545).png)
+![alt text](https://github.com/AntoniosKalattas/Chat-app/blob/main/img/Screenshot%20(546).png)
+
 # How to use dev-chat
 
 1)Install the files
