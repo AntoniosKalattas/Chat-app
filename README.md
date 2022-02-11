@@ -9,7 +9,7 @@ This is a chat room that I created using web tools like html & javascript and al
 
 # How to install dev-chat
 
-> Install the DevChat.SetUp.exe from https://github.com/AntoniosKalattas/dev-chat/releases/tag/stable
+> Install the DevChat.SetUp.exe from [Here](https://github.com/AntoniosKalattas/dev-chat/releases/tag/stable)
 
 **In order to build the app you need to have installed electron(https://www.electronjs.org) & ws(https://www.npmjs.com/package/ws)**
 
