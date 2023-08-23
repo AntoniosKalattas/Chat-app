@@ -13,4 +13,4 @@ This is a chat room that I created using web tools like html & javascript and al
 
 **In order to build the app you need to have installed electron(https://www.electronjs.org) & ws(https://www.npmjs.com/package/ws)**
 
-**Compatible with: Windows.(you can deploy it on every OS you want).**
+**Compatible with: Windows.(you can deploy it on any OS you want).**
